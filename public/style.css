@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---------- GENERAL ---------- */
+
+
+#live-chat {
+	font-size: 15px;
+	width: 100%;
+}
+
+.chat-history {
+	height: 450px;
+	padding: 8px 24px;
+	overflow-y: auto;
+}
+
+.chat-message {
+	margin: 16px 0;
+}

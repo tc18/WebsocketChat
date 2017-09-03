@@ -1,0 +1,19 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "My first front end websocket app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tc18/WebsocketChat.git"
+  },
+  "author": "Chintan Tikekar",
+  "license": "ISC",
+  "dependencies": {
+    "@agm/core": "^1.0.0-beta.1",
+    "express": "^4.15.4"
+  }
+}
